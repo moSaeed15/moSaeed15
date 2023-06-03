@@ -29,9 +29,9 @@ Highly Experienced software developer with expertise in creating dynamic and use
 ## 📊 Stats
 
 <div style="display: flex; justify-content: space-between; gap:5px">
-    <img src="https://github-readme-stats.vercel.app/api?username=MoSaeed15&show_icons=true&theme=gruvbox&hide_rank=true" alt="MoSaeed's GitHub stats">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MoSaeed15&show_icons=true&theme=gruvbox&hide_rank=true" alt="MoSaeed's GitHub stats">
 <!--     <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoSaeed15&theme=onedark&layout=compact" alt="MoSaeed's top languages"> -->
-    <img   src="https://github-readme-streak-stats.herokuapp.com/?user=MoSaeed15&theme=onedark&hide_border=true" />
+    <img  width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=MoSaeed15&theme=onedark&hide_border=true" />
 </div>
 
 ## 🫠 Projects
