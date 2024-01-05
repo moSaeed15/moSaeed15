@@ -39,7 +39,7 @@ Highly Experienced software developer with expertise in creating dynamic and use
 | Number |                                Repo Link                                 |
 | :----: | :----------------------------------------------------------------------: |
 |   1    | [Event-Booking](https://github.com/moSaeed15/tessera-frontend/tree/main) |
-|   2    |     [Ecommerce AudioPhile](https://github.com/moSaeed15/audiophile)      |
+|   2    |     [Ecommerce AudioPhile](https://github.com/moSaeed15/Picnic-Webapp)      |
 |   3    |        [Space tourism](https://github.com/moSaeed15/SpaceProject)        |
 |   4    |  [Real Time Monitoring](https://github.com/moSaeed15/MonitoringWebsite)  |
 |   5    |        [Bank Landing Page](https://github.com/moSaeed15/easybank)        |
