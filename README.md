@@ -39,11 +39,12 @@ Highly Experienced software developer with expertise in creating dynamic and use
 | Number |                                Repo Link                                 |
 | :----: | :----------------------------------------------------------------------: |
 |   1    | [Event-Booking](https://github.com/moSaeed15/tessera-frontend/tree/main) |
-|   2    |     [Picnic Booking App](https://github.com/moSaeed15/Picnic-Webapp)      |
-|   3    |   [Ecommerce AudioPhile](https://github.com/moSaeed15/audiophile)         |
-|   4    |  [Real Time Monitoring](https://github.com/moSaeed15/MonitoringWebsite)  |
-|   5    |        [Bank Landing Page](https://github.com/moSaeed15/easybank)        |
-|   6    |  [Space tourism](https://github.com/moSaeed15/SpaceProject)   |
+|   2    | [Cogniverse Dashboard](https://github.com/moSaeed15/cogniverse)          |
+|   3   |     [Picnic Booking App](https://github.com/moSaeed15/Picnic-Webapp)      |
+|   4    |   [Ecommerce AudioPhile](https://github.com/moSaeed15/audiophile)        |
+|   5    |  [Real Time Monitoring](https://github.com/moSaeed15/MonitoringWebsite)  |
+|   6    |        [Bank Landing Page](https://github.com/moSaeed15/easybank)        |
+|   7    |  [Space tourism](https://github.com/moSaeed15/SpaceProject)              |
 
 ## Connect with me
 
