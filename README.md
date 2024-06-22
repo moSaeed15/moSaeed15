@@ -38,8 +38,8 @@ Highly Experienced software developer with expertise in creating dynamic and use
 
 | Number |                                Repo Link                                 |
 | :----: | :----------------------------------------------------------------------: |
-|   1    |  [Picnic Booking App](https://github.com/moSaeed15/Picnic-Webapp)        |
-|   2    | [Cogniverse Dashboard](https://github.com/moSaeed15/cogniverse)          |
+|   1    | [Cogniverse Dashboard](https://github.com/moSaeed15/cogniverse)        |
+|   2    |   [Picnic Booking App](https://github.com/moSaeed15/Picnic-Webapp)         |
 |   3   |      [Event-Booking](https://github.com/moSaeed15/tessera-frontend/tree/main)   |
 |   4    |   [Ecommerce AudioPhile](https://github.com/moSaeed15/audiophile)        |
 |   5    |  [Real Time Monitoring](https://github.com/moSaeed15/MonitoringWebsite)  |
