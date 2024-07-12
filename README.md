@@ -4,7 +4,8 @@
 
 ## About
 
-Highly Experienced software developer with expertise in creating dynamic and user-friendly websites and web applications. Proficient in HTML, CSS, JavaScript, TypeScript, ReactJS, and Flask. Developed a variety of projects, including ecommerce websites, a full-stack event booking website, a real-time data rendering website with a Flask backend, and numerous other projects. Additionally, experienced in creating Python-based GUIs for image processing and digital signal processing applications. Continuously driven to deliver high-quality solutions and constantly exploring new technologies to enhance development capabilities.
+Experienced Frontend Engineer proficient in React, TypeScript, HTML, CSS, JavaScript, and Next.js. Skilled in developing dynamic and user-friendly dashboards, property management systems, and landing pages. Skilled in creating web applications,  
+API integration and automated testing. Developed various projects, including a dashboard for game data, full-stack event booking website and a real-time data rendering website. Continuously driven to deliver high-quality solutions and actively exploring new technologies to enhance development capabilities
 
 ## Languages and tools
 
