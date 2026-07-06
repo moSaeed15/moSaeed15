@@ -22,12 +22,6 @@ Self-taught in **Blender**, I bridge 3D modeling and the web — taking scenes f
 <img align="left" width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <br/>
 
-## 📊 Stats
-<div style="display: flex; justify-content: space-between; gap:5px">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoSaeed15&theme=onedark&layout=compact" alt="MoSaeed's top languages">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=MoSaeed15&show_icons=true&theme=gruvbox&hide_rank=true" alt="MoSaeed's GitHub stats">
-    <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=MoSaeed15&theme=onedark&hide_border=true" />
-</div>
 
 ## 🚀 Projects
 | # | Project | Stack | Links |
